@@ -1,4 +1,4 @@
-# a JasonLiao project: zcg-vue-h5
+# a small project: zcg-vue-h5
 > 自己纯手工打造的一些轮子:ferris_wheel:,一个vue的H5插件库, 按照375px宽度的UI图构建, 会转换为vw, 可按需引入,welcome npm install and happy hacking ~:relaxed:
 
 ## install
